@@ -2,6 +2,8 @@
 
 A project made by - Adarsh Jha 20BCE10988
 
+Video Description of the Project is at - [https://drive.google.com/file/d/1Y-y3XhqwROf_FYFcJbVtv_sJ6A0cFMLE/view?usp=sharing](https://drive.google.com/file/d/1Y-y3XhqwROf_FYFcJbVtv_sJ6A0cFMLE/view?usp=sharing)
+
 Crypto-Tracker is a web application built using the MERN (MongoDB, Express, React, Node.js) stack and managed with Yarn package manager. It leverages the Coingecko API to provide real-time cryptocurrency data and tracking capabilities.
 
 The application allows users to view the latest prices, historical data, and market trends of various cryptocurrencies. Users can search for specific cryptocurrencies, view detailed information about each coin, and add them to their watchlist for easy monitoring.
