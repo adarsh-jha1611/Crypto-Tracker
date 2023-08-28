@@ -6,7 +6,7 @@ import {
   CircularProgress,
   createTheme,
   makeStyles,
-  ThemeProvider,
+  ThemeProvider, 
 } from "@material-ui/core";
 import SelectButton from "./SelectButton";
 import { chartDays } from "../config/data";
